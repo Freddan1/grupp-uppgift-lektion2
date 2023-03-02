@@ -5,5 +5,22 @@
   text-align: center;
 }
 
+#Hero{
+  background-color: skyblue;
+  height: 200px;
+}
 
-  
+#Portfolio{
+  background-color: pink;
+  height: 200px;
+}
+
+#About{
+  background-color: wheat;
+  height: 200px;
+}
+
+#Contact{
+  background-color: tomato;
+  height: 200px;
+}
